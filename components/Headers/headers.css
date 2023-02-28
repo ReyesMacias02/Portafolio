@@ -16,8 +16,8 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  padding: 20px 10%;
-  background: transparent;
+  padding: 10px 10%;
+  background: #1f242d;
   display: flex;
   justify-content: space-between;
   aling-items: center;

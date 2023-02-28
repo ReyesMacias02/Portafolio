@@ -1,0 +1,67 @@
+.Title{
+
+position:center;
+padding:11px 20px;
+margin-top:30px;
+
+
+}
+.Title h1{
+color:#0ef;
+display:flex;
+justify-content:center;
+align-items:center;
+font-size:30px;
+font-weight: bold;
+padding-top:38px
+
+
+}
+.wrapper {
+    weight:100%; 
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    padding:40px 10% 0;
+  }
+  .contenedor{
+   
+    color:black;
+  }
+  .card{
+    background:#0f0f10;
+   margin:5px 20px 5px 10px;
+   border-radius:20px
+  }
+  .card:hover{
+    background:#414146;
+  }
+  .card h3{
+    padding-left:15px;
+    padding-top:3px;
+    color:white
+    
+  }
+  .card p{
+    color:white;
+    
+    font-size:11px;
+    padding:9px 15px 9px 15px;
+    text-align: justify;
+    
+    line-height:20px
+    
+  }
+  .iconos{
+    padding-left:15px;
+
+  }
+  .iconos-a{
+    display:flex;
+    color:#0ef;
+    padding-top:15px;
+    font-size:40px;
+    margin:0px;
+    animation:none
+   
+   
+  }
