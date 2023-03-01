@@ -23,7 +23,7 @@ const Contents = () => {
             <a href="curriculum.pdf" download className='btn'>Download CV</a>
         </div>
         <div className="home-img">
-            <img src="perfil.png" alt="" />
+            <img src="perfil2.png" alt="" />
         </div>
 
     </section>

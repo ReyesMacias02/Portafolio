@@ -7,11 +7,11 @@
     display:flex;
     justify-content:space-between;
     align-items:center;
-    padding:70px 10% 0;
+    padding:20px 10% 0;
  
 }
 .home-img img{ 
-    max-width:350px;
+    max-width:500px;
     margin-left:50px;
     margin-right:-20px;
     opacity:0;

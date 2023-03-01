@@ -1,0 +1,106 @@
+.Title-portafolio{
+
+    position:center;
+    padding:11px 20px;
+    
+    
+    
+    }
+    .Title-portafolio h1{
+    color:#0ef;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:30px;
+    font-weight: bold;
+    padding-top:37px
+    
+    
+    }
+    .wrapper-portafolio {
+        weight:100%; 
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        padding:40px 10% 0;
+      }
+      .contenedor{
+       
+        color:black;
+        
+
+        
+      }
+      .card-portafolio{
+        background:##1f242d;
+       margin:5px 20px 25px 10px;
+       border-color:white;
+       border-radius:15px;
+       box-shadow: 0 0 10px white;
+      }
+      .card-portafolio:hover{
+        background:#414146;
+      }
+      .card-portafolio h3{
+        padding-left:15px;
+        padding-top:10px;
+        color:white;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        
+      }
+      .card-portafolio p{
+        color:white;
+        
+        font-size:11px;
+        padding:9px 15px 9px 15px;
+        text-align: justify;
+        
+        line-height:20px
+        
+      }
+      .img-p{
+        padding-left:15px;
+        
+     display:flex;
+        justify-content:center;
+        align-items:center;
+        padding-botton:10px;
+      }
+      .img-a{
+       
+        color:#0ef;
+        padding-top:15px;
+        font-size:40px;
+        margin:0px;
+        height:160px;
+        animation:none
+       
+       
+      }
+      .cont-btn{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        padding-top:10px;
+        padding-botton:12px;
+       
+      
+      }
+      .btn-view{
+        display: inline-block;
+        
+        padding:11px 28px ;
+        background:#0ef;
+        border-radius:10px;
+        box-shadow: 0 0 10px #0ef;
+        font-size:16px;
+        letter-spacing:1px;
+        text-decoration: none;
+        font-weight:900;
+        color:#1f242d;
+        margin:15px
+      }
+      .btn-view:hover{
+        background:#1cc8d5;
+      }
