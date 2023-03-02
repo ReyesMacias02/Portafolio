@@ -48,7 +48,7 @@
     
 }
 .home-content p{
-    margin-top:31px;
+    margin-top:10px;
     font-size:16px;
     opacity:0;
     animation: slideLeft 1s ease forwards;

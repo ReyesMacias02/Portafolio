@@ -13,7 +13,16 @@ const Contents = () => {
             <h3>Hello, It`s Me</h3>
             <h1>Javier Reyes M</h1>
             <h3>And I`am <span className='multiple-text'></span></h3>
-            <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum vero vitae similique quam provident ipsam a rerum suscipit impedit possimus repudiandae veniam dolor sit nobis saepe excepturi officiis, eaque corrupti.</p>
+            <p> Estudiante de tecnología de la información
+en la ULEAM.
+Apasionado de la Programación, busco empezar
+mi carrera aportando sólidos conocimientos
+académicos de programación (Java, C#,
+Typescript, Javascript, HTML5), conocimientos en
+Base de datos, Frontend (Angular, React), etc Mi capacidad de generar ideas y mi
+facilidad para trabajar en equipo son mis
+principales herramientas.
+</p>
             <div className='social-media'>
                 <a href="https://www.facebook.com/jose.macias.7906932/" target="_blank" className='i-7'><FaFacebook/></a>
                 <a href="https://www.instagram.com/javierrm2001/"  target="_blank" className='i-8'><FaInstagram/></a>
